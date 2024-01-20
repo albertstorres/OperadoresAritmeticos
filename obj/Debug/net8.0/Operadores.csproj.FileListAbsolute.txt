@@ -7,6 +7,7 @@ C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuild
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.sourcelink.json
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.dll
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\refint\Operadores.dll
 C:\dev\dotnet\EstudoBase\Operadores\obj\Debug\net8.0\Operadores.pdb
